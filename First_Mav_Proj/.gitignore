@@ -1,1 +1,12 @@
-/target/
+# Ignorar diretório de compilação do Maven
+target/
+
+# Ignorar arquivos de configuração do Eclipse
+.classpath
+.project
+.settings/
+
+# Ignorar arquivos de log e temporários
+*.log
+*.tmp
+*.class
